@@ -1,0 +1,14 @@
+using System;
+namespace 2048Game
+{
+	public class Display
+	{
+		public Display()
+		{
+		}
+		public void drawGame(Game 2048)
+		{
+			
+		}
+	}
+}
